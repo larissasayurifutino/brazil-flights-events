@@ -9,7 +9,7 @@ To analyse data from occurrences in Brazilian civil flights.
 
 1. Download data: aeronave.csv and ocorrencia.csv. 
 
-2. Run data_analysis.ipynb for statistics and plots analysis.
+2. Run descritivas_LarissaSayuriSantos.ipynb for statistics and plots analysis.
 
 ## Python Libraries
 
@@ -19,15 +19,12 @@ To analyse data from occurrences in Brazilian civil flights.
 
 * matplotlib
 
+* calmap
 
-## DATA
+
+## Data
 
 * CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira: from [Portal de Dados Abertos](https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira)
-
-
-## Remarks
-
-This project was developed in Google colab and hence the code asks for Google Drive access.
 
 
 ## Last update
