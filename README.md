@@ -21,7 +21,7 @@ To analyse data from occurrences in Brazilian civil flights.
 
 * calmap
 
-*plotly
+* plotly
 
 
 ## Data
