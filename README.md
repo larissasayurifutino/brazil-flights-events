@@ -21,6 +21,8 @@ To analyse data from occurrences in Brazilian civil flights.
 
 * calmap
 
+*plotly
+
 
 ## Data
 
@@ -29,7 +31,7 @@ To analyse data from occurrences in Brazilian civil flights.
 
 ## Last update
 
-May 12, 2023
+May 14, 2023
 
 
 ## Author
